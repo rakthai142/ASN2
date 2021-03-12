@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/scanFragment"
+        android:icon="@drawable/barcode"
+        android:title="scan" />
+
+    <item
+        android:id="@+id/receiptFragment"
+        android:icon="@drawable/printer"
+        android:title="receipt" />
+
+    <item
+        android:id="@+id/productFragment"
+        android:icon="@drawable/food"
+        android:title="all products" />
+
+</menu>
